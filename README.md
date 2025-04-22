@@ -1,5 +1,6 @@
 # cnn_quickdraw
 The process of training a neural network on quick draw dataset.
+I obtained an accuracy of 69,45% on 126 different classes.
 
 ## Step 1.
 Download the training data. 
