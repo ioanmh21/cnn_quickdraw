@@ -24,3 +24,5 @@ Use the CNN.
 
 1. The scrpits saves the model at every epoch in hdf5 format and it remembers the best in quickdraw_model_best.
 2. check.py is a script that takes from the user a category and an index; for that image it displays the top 5 probabilities.
+
+![Example Prediction](figure.png)
