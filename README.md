@@ -27,11 +27,11 @@ Use the CNN.
 
 <table>
   <tr>
-    <td><img src="figures/Figure2.png" alt="Example Prediction" width="300"/></td>
-    <td><img src="figures/Figure3.png" alt="Another Prediction" width="300"/></td>
+    <td><img src="figures/Figure_2.png" alt="Example Prediction" width="400"/></td>
+    <td><img src="figures/Figure_3.png" alt="Another Prediction" width="400"/></td>
   </tr>
   <tr>
-    <td><img src="figures/Figure4.png" alt="Example Prediction" width="300"/></td>
-    <td><img src="figures/Figure5.png" alt="Another Prediction" width="300"/></td>
+    <td><img src="figures/Figure_4.png" alt="Example Prediction" width="400"/></td>
+    <td><img src="figures/Figure_5.png" alt="Another Prediction" width="400"/></td>
   </tr>
 </table>
